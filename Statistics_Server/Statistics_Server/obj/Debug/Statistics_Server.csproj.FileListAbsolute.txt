@@ -1,0 +1,17 @@
+D:\Private\Statistics\Statistics_Server\Statistics_Server\bin\Debug\Statistics_Server.exe.config
+D:\Private\Statistics\Statistics_Server\Statistics_Server\bin\Debug\Statistics_Server.exe
+D:\Private\Statistics\Statistics_Server\Statistics_Server\bin\Debug\Statistics_Server.pdb
+D:\Private\Statistics\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.csprojAssemblyReference.cache
+D:\Private\Statistics\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.Properties.Resources.resources
+D:\Private\Statistics\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.csproj.GenerateResource.cache
+D:\Private\Statistics\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.exe
+D:\Private\Statistics\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.pdb
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\bin\Debug\Statistics_Server.exe.config
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\bin\Debug\Statistics_Server.exe
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\bin\Debug\Statistics_Server.pdb
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.csprojAssemblyReference.cache
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.Form1.resources
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.Properties.Resources.resources
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.csproj.GenerateResource.cache
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.exe
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Server\Statistics_Server\obj\Debug\Statistics_Server.pdb

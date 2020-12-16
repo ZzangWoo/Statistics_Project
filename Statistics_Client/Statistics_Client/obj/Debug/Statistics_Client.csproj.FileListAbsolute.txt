@@ -1,0 +1,10 @@
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\bin\Debug\Statistics_Client.exe.config
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\bin\Debug\Statistics_Client.exe
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\bin\Debug\Statistics_Client.pdb
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\obj\Debug\Statistics_Client.csprojAssemblyReference.cache
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\obj\Debug\Statistics_Client.Form1.resources
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\obj\Debug\Statistics_Client.Properties.Resources.resources
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\obj\Debug\Statistics_Client.csproj.GenerateResource.cache
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\obj\Debug\Statistics_Client.exe
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\obj\Debug\Statistics_Client.pdb
+D:\Works\dev.azure.com\zzangwoo\Statistics_Project\Statistics_Client\Statistics_Client\obj\Debug\Statistics_Client.FindForm.resources

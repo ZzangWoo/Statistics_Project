@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistics_Client", "Statistics_Client\Statistics_Client.csproj", "{8E6917AF-1EC1-4AFC-BBA6-64E1CEE9468A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E6917AF-1EC1-4AFC-BBA6-64E1CEE9468A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6917AF-1EC1-4AFC-BBA6-64E1CEE9468A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6917AF-1EC1-4AFC-BBA6-64E1CEE9468A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6917AF-1EC1-4AFC-BBA6-64E1CEE9468A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4EC2D8-BED8-4A37-B944-61DED1EFE9AA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/zzangwoo
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Statistics_Client\\Statistics_Client.csproj
+		SccProjectName1 = Statistics_Client
+		SccLocalPath1 = Statistics_Client
+	EndGlobalSection
+EndGlobal
